@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lesson02.iml" filepath="$PROJECT_DIR$/lesson02.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudclient/springcloudclient.iml" filepath="$PROJECT_DIR$/springcloudclient/springcloudclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudfeign/springcloudfeign.iml" filepath="$PROJECT_DIR$/springcloudfeign/springcloudfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudribbon/springcloudribbon.iml" filepath="$PROJECT_DIR$/springcloudribbon/springcloudribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudserver/springcloudserver.iml" filepath="$PROJECT_DIR$/springcloudserver/springcloudserver.iml" />
     </modules>
   </component>
