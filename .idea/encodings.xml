@@ -5,5 +5,6 @@
     <file url="file://$PROJECT_DIR$/springcloudfeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudzuul" charset="UTF-8" />
   </component>
 </project>

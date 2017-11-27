@@ -16,7 +16,7 @@ public class FeignContractor {
     @Autowired
     private IFeignService feignService;
 
-    @RequestMapping(value = "/hi", method = RequestMethod.GET)
+    @RequestMapping(value = "/hii", method = RequestMethod.GET)
     String hi(@RequestParam(value = "name") String name) {
         return feignService.hi(name);
     }
