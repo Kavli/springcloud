@@ -26,4 +26,5 @@ public class EurekaHiApplication {
     public String home(@RequestParam String name) {
         return "hi,"+name+",from port:"+port;
     }
+
 }
