@@ -14,7 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springcloudclient" target="1.8" />
-      <module name="springcloudfeign" target="1.5" />
+      <module name="springcloudfeign" target="1.8" />
       <module name="springcloudribbon" target="1.8" />
       <module name="springcloudserver" target="1.8" />
     </bytecodeTargetLevel>
